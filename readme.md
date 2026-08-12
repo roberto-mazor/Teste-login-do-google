@@ -17,7 +17,7 @@ npx expo install @react-native-google-signin/google-signin
 
 ### Configuração do Arquivo app.json
 
-Ajustamos o manifesto do Expo para declarar a identidade única do aplicativo no ecossistema Android e injetar as propriedades nativas de compilação: 
+Ajustado o manifesto do Expo para declarar a identidade única do aplicativo no ecossistema Android e injetar as propriedades nativas de compilação: 
 
 ```json
 {
